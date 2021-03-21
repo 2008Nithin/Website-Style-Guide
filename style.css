@@ -49,9 +49,14 @@ body {
     border: 2px solid #a2a2a6;
     padding: 10px;
     width: 336px;
+    height: 180px;
 }
-#fonts div h4 {
-    font-size: large;
+#fonts div h4,
+#fonts div p {
+    margin: 15px;
+    width: 336px;
+    height: 18px;
+    padding: 1px;
 }
 #abril-fatface {
     font-family: "Abril Fatface";
