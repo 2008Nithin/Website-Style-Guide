@@ -21,6 +21,7 @@
 .item-hex {
 
 }
+
 .font-header {
 
 }
@@ -40,4 +41,13 @@ body {
 }
 #pink {
     background-color: #d957d9;
+}
+#fonts div {
+    display: inline-block;
+    margin: 15px;
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+}
+#fonts div h4 {
+    font-size: large;
 }
